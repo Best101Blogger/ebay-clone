@@ -1,5 +1,5 @@
 SUPABASE:
-    ebay-c
+    Trapper
     u5Fq60cqLHBQw1hoKZjvrtCNZfaT3P
 
 AUTH:
